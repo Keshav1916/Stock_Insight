@@ -20,7 +20,7 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/Aadarsh077/Stock_Insights.git
+    git clone https://github.com/Keshav1916/Stock_Insights.git
     cd Stock_Insights
     ```
 
